@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Filipe 🛡️
 
-<!--
-**FilipeTCyber/FilipeTCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytical professional transitioning into **Cybersecurity**, bringing a strong background in technical operations and complex systems.
 
-Here are some ideas to get you started:
+### 🎯 Professional Focus
+- **Cybersecurity:** Risk Management (NIST CSF), Network Security, and Threat Detection.
+- **Technical Skills:** Linux, SQL, Python for Automation, and Security Auditing.
+- **Experience:** Solid expertise in technical operations and operational environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Goals
+- Completing the **Google Cybersecurity Professional Certificate**.
+- Developing a portfolio of security audits and incident response scenarios.
+- Mastering tools like SIEM and Packet Sniffers (Wireshark).
+
+---
+*“Security is a process, not a product.”*
